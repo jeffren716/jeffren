@@ -3861,3 +3861,18 @@
 			overflow: hidden;
 			padding: 0px;
 		}
+
+		.personal-actions {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+		}
+
+		.personal-actions a {
+			margin: 0;
+			padding: 0;
+		}
+
+		.personal-button {
+			min-width: 7em;
+		}
